@@ -1,0 +1,4 @@
+env
+djackets_django/__pycache__/
+product/__pycache__/
+product/migrations/__pycache__/
